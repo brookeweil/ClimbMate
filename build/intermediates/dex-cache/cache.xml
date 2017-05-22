@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_c395735b28bf5709a42caa5abb692da220f3bfbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_31abcfd5257895d26148041ad062bb051dd5fb5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_b8dc05caacddfe500779f8e83512d4f147308533/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_4a13de7f6bdd10db3c797c8bc1269492b1cabc91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="972199b9a307dde624698645716fd65582e698b0">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1b76b0dea1bd70b82bb7657737e202c57b1f800f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_89380568c5a204c59b02772dff96473a03752d29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brooke/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Brooke/AndroidStudioProjects/ClimbMate/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_d980a1b4929aead5af5e8fd403f248c75f76f500/classes.dex" />
+    </item>
+
+</items>
